@@ -1,0 +1,6 @@
+Site_ID,Country,Screened,Randomized,Status,sf
+101,IN,20,10,Active,50.0
+102,US,25,12,Completed,52.0
+103,DE,18,5,Terminated,72.22
+104,FR,0,8,Active,-800.0
+105,IN,15,7,Completed,53.33
